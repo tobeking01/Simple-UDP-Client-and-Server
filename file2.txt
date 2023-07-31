@@ -1,0 +1,5 @@
+Submission
+Create a README file that contains a complete listing/explanation of what files are present in the directory and the instructions to compile and run your code (e.g., give a command-line example to test your code with a sample file or random string). 
+Upload your .c or .py files and your README file to your dropbox. Your source code file must contain your name and star-id, or it will not be graded.
+Note that you are encouraged to submit a Makefile for your code. If you do not submit one, please make sure to include the instructions on how to compile your code in your README file.
+Your code will be evaluated on one of the university's virtual lab machines based on the following evaluation rubric.
